@@ -195,7 +195,6 @@ class Program
         AnsiConsole.MarkupLine("[cyan]view storage[/] - Lists the FLUX storage folder and its paths");
         AnsiConsole.MarkupLine("[cyan]draw[/]  - Opens a ASCII drawing tool");
         AnsiConsole.MarkupLine("[cyan]chat[/]  - Opens a local FLUX assistant");
-        AnsiConsole.MarkupLine("[cyan]yt[/]    - The developer's YouTube channel info");
         AnsiConsole.MarkupLine("[cyan]desktop[/] - Opens a desktop-style picker");
         AnsiConsole.MarkupLine("[cyan]exit[/]  - Stops the session\n");
     }
