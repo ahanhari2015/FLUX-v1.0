@@ -204,7 +204,7 @@ class Program
         AnsiConsole.MarkupLine("\n[cyan]FLUX Operating System v1.0.0[/]");
         AnsiConsole.MarkupLine("[yellow]Kernel Core:[/] .NET 10.0 Standard Architecture");
         AnsiConsole.MarkupLine("[yellow]Developer:[/] itoldyounow");
-        AnsiConsole.MarkupLine("[yellow]Channel:[/] itoldyounow on YouTube");
+        AnsiConsole.MarkupLine("[yellow]Channel:[/] NONEXISTENT");
         AnsiConsole.MarkupLine($"[yellow]Theme:[/] {AppSettings.Theme}\n");
     }
 
